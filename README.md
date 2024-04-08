@@ -1,1 +1,1 @@
-# chalice-was-template
+# chalice-aws-template
